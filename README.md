@@ -25,7 +25,7 @@ This is a solution to the [Bookmark landing page challenge on Frontend Mentor](h
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/bookmark-landing-page-CAoEAz5FHo)
 - Live Site URL: [GitHub Pages](https://rahulpaul127.github.io/bookmark-landing-page-master/)
 
 ---
